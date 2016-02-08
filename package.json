@@ -1,0 +1,22 @@
+{
+  "name": "react-native-countdown-picker",
+  "version": "0.0.1",
+  "description": "A wrapper on top of ActionSheetPicker-3.0 for displaying countdown timer in an actionsheet",
+  "author": {
+    "name": "Chirag Jain",
+    "email": "jain_chirag04@yahoo.com",
+    "url": "http://chiragjain.tumblr.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:4Catalyzer/react-native-countdown-picker.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "ios",
+    "actionsheet",
+    "countdown picker"
+  ]
+}
