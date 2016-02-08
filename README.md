@@ -34,7 +34,7 @@ $ pod install
 
 ## Example
 ```javascript
-var CountDownPicker = require('NativeModules').CountDownPicker;
+var CountDownPicker = require('NativeModules').CJCountDownPicker;
 
 var ExampleApp = React.createClass({
   showPicker: function() {
