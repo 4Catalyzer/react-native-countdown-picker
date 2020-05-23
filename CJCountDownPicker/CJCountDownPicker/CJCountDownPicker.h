@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "RCTBridge.h"
+#import "React/RCTBridge.h"
 
 @interface CJCountDownPicker : NSObject <RCTBridgeModule>
 
