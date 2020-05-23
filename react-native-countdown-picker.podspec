@@ -16,5 +16,5 @@ Pod::Spec.new do |s|
   s.source_files  = "CJCountDownPicker/**/*.{h,m}"
 
   s.dependency 'React'
-  s.dependency 'ActionSheetPicker-3.0'
+  s.dependency 'ActionSheetPicker-3.0', '2.5.0'
 end
